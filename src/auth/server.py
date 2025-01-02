@@ -3,6 +3,7 @@ import datetime
 import os
 from flask import Flask, request
 import psycopg2
+
 from psycopg2.extras import RealDictCursor
 from urllib.parse import urlparse
 
