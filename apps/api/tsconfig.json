@@ -5,6 +5,8 @@
     "noImplicitAny": false, // Let TS infer without blocking you
     "useUnknownInCatchVariables": false,
     "experimentalDecorators": true,
-    "emitDecoratorMetadata": true
+    "emitDecoratorMetadata": true,
+    "baseUrl": "./",
+    "paths": {}
   }
 }
